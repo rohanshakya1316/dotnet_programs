@@ -1,0 +1,14 @@
+C:\Users\shaky\source\repos\DotNetLab\DotNetLab\bin\Debug\net8.0\DotNetLab.exe
+C:\Users\shaky\source\repos\DotNetLab\DotNetLab\bin\Debug\net8.0\DotNetLab.deps.json
+C:\Users\shaky\source\repos\DotNetLab\DotNetLab\bin\Debug\net8.0\DotNetLab.runtimeconfig.json
+C:\Users\shaky\source\repos\DotNetLab\DotNetLab\bin\Debug\net8.0\DotNetLab.dll
+C:\Users\shaky\source\repos\DotNetLab\DotNetLab\bin\Debug\net8.0\DotNetLab.pdb
+C:\Users\shaky\source\repos\DotNetLab\DotNetLab\obj\Debug\net8.0\DotNetLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shaky\source\repos\DotNetLab\DotNetLab\obj\Debug\net8.0\DotNetLab.AssemblyInfoInputs.cache
+C:\Users\shaky\source\repos\DotNetLab\DotNetLab\obj\Debug\net8.0\DotNetLab.AssemblyInfo.cs
+C:\Users\shaky\source\repos\DotNetLab\DotNetLab\obj\Debug\net8.0\DotNetLab.csproj.CoreCompileInputs.cache
+C:\Users\shaky\source\repos\DotNetLab\DotNetLab\obj\Debug\net8.0\DotNetLab.dll
+C:\Users\shaky\source\repos\DotNetLab\DotNetLab\obj\Debug\net8.0\refint\DotNetLab.dll
+C:\Users\shaky\source\repos\DotNetLab\DotNetLab\obj\Debug\net8.0\DotNetLab.pdb
+C:\Users\shaky\source\repos\DotNetLab\DotNetLab\obj\Debug\net8.0\DotNetLab.genruntimeconfig.cache
+C:\Users\shaky\source\repos\DotNetLab\DotNetLab\obj\Debug\net8.0\ref\DotNetLab.dll

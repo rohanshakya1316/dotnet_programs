@@ -1,0 +1,14 @@
+C:\Users\shaky\source\repos\BasicOperations\BasicOperations\bin\Debug\net8.0\BasicOperations.exe
+C:\Users\shaky\source\repos\BasicOperations\BasicOperations\bin\Debug\net8.0\BasicOperations.deps.json
+C:\Users\shaky\source\repos\BasicOperations\BasicOperations\bin\Debug\net8.0\BasicOperations.runtimeconfig.json
+C:\Users\shaky\source\repos\BasicOperations\BasicOperations\bin\Debug\net8.0\BasicOperations.dll
+C:\Users\shaky\source\repos\BasicOperations\BasicOperations\bin\Debug\net8.0\BasicOperations.pdb
+C:\Users\shaky\source\repos\BasicOperations\BasicOperations\obj\Debug\net8.0\BasicOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shaky\source\repos\BasicOperations\BasicOperations\obj\Debug\net8.0\BasicOperations.AssemblyInfoInputs.cache
+C:\Users\shaky\source\repos\BasicOperations\BasicOperations\obj\Debug\net8.0\BasicOperations.AssemblyInfo.cs
+C:\Users\shaky\source\repos\BasicOperations\BasicOperations\obj\Debug\net8.0\BasicOperations.csproj.CoreCompileInputs.cache
+C:\Users\shaky\source\repos\BasicOperations\BasicOperations\obj\Debug\net8.0\BasicOperations.dll
+C:\Users\shaky\source\repos\BasicOperations\BasicOperations\obj\Debug\net8.0\refint\BasicOperations.dll
+C:\Users\shaky\source\repos\BasicOperations\BasicOperations\obj\Debug\net8.0\BasicOperations.pdb
+C:\Users\shaky\source\repos\BasicOperations\BasicOperations\obj\Debug\net8.0\BasicOperations.genruntimeconfig.cache
+C:\Users\shaky\source\repos\BasicOperations\BasicOperations\obj\Debug\net8.0\ref\BasicOperations.dll
