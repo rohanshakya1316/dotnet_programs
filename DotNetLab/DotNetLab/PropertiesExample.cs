@@ -7,7 +7,7 @@ namespace DotNetLab
     class PropertiesExample
     {
         // Private fields
-        private string name = "Ram";
+        private string name = "Ramesh";
         private int age;
 
         // Public properties

@@ -12,3 +12,4 @@ C:\Users\shaky\source\repos\DotNetLab\DotNetLab\obj\Debug\net8.0\refint\DotNetLa
 C:\Users\shaky\source\repos\DotNetLab\DotNetLab\obj\Debug\net8.0\DotNetLab.pdb
 C:\Users\shaky\source\repos\DotNetLab\DotNetLab\obj\Debug\net8.0\DotNetLab.genruntimeconfig.cache
 C:\Users\shaky\source\repos\DotNetLab\DotNetLab\obj\Debug\net8.0\ref\DotNetLab.dll
+C:\Users\shaky\source\repos\DotNetLab\DotNetLab\obj\Debug\net8.0\DotNetLab.sourcelink.json
