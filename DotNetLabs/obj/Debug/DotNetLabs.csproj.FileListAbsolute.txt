@@ -1,0 +1,2 @@
+C:\Users\shaky\source\repos\DotNetLabs\obj\Debug\DotNetLabs.csproj.AssemblyReference.cache
+C:\Users\shaky\source\repos\DotNetLabs\obj\Debug\DotNetLabs.csproj.CoreCompileInputs.cache
