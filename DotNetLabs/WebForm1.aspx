@@ -1,4 +1,5 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="WebForm1.aspx.cs" Inherits="DotNetLabs.WebForm1" %>
+﻿<!-- Write a ASP.NET program to demonstrate the concepts of labels, text box and button controls.-->
+<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="WebForm1.aspx.cs" Inherits="DotNetLabs.WebForm1" %>
 
 <!DOCTYPE html>
 

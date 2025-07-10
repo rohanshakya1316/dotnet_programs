@@ -182,48 +182,48 @@ namespace DotNetLab
             }
         }
 
-        static void Main(string[] args)
-        {
-            CRUD crud = new CRUD();
-            crud.Connection();
+        //static void Main(string[] args)
+        //{
+        //    CRUD crud = new CRUD();
+        //    crud.Connection();
 
-            bool exit = false;
-            while (!exit)
-            {
-                Console.WriteLine("========= STUDENT CRUD MENU =========");
-                Console.WriteLine("1. Add Student");
-                Console.WriteLine("2. View All Students");
-                Console.WriteLine("3. Update Student");
-                Console.WriteLine("4. Delete Student");
-                Console.WriteLine("5. Exit");
-                Console.Write("Enter your choice (1-5): ");
+        //    bool exit = false;
+        //    while (!exit)
+        //    {
+        //        Console.WriteLine("========= STUDENT CRUD MENU =========");
+        //        Console.WriteLine("1. Add Student");
+        //        Console.WriteLine("2. View All Students");
+        //        Console.WriteLine("3. Update Student");
+        //        Console.WriteLine("4. Delete Student");
+        //        Console.WriteLine("5. Exit");
+        //        Console.Write("Enter your choice (1-5): ");
 
-                string choice = Console.ReadLine();
-                Console.WriteLine();
+        //        string choice = Console.ReadLine();
+        //        Console.WriteLine();
 
-                switch (choice)
-                {
-                    case "1":
-                        crud.AddStudent();
-                        break;
-                    case "2":
-                        crud.SelectStudents();
-                        break;
-                    case "3":
-                        crud.UpdateStudent();
-                        break;
-                    case "4":
-                        crud.DeleteStudent();
-                        break;
-                    case "5":
-                        Console.WriteLine("Exiting the application. Goodbye!");
-                        exit = true;
-                        break;
-                    default:
-                        Console.WriteLine("Invalid choice. Please enter 1-5.\n");
-                        break;
-                }
-            }
-        }
+        //        switch (choice)
+        //        {
+        //            case "1":
+        //                crud.AddStudent();
+        //                break;
+        //            case "2":
+        //                crud.SelectStudents();
+        //                break;
+        //            case "3":
+        //                crud.UpdateStudent();
+        //                break;
+        //            case "4":
+        //                crud.DeleteStudent();
+        //                break;
+        //            case "5":
+        //                Console.WriteLine("Exiting the application. Goodbye!");
+        //                exit = true;
+        //                break;
+        //            default:
+        //                Console.WriteLine("Invalid choice. Please enter 1-5.\n");
+        //                break;
+        //        }
+        //    }
+        //}
     }
 }

@@ -1,4 +1,6 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="WebForm3.aspx.cs" Inherits="DotNetLabs.WebForm3" %>
+﻿<!-- Create an ASP.NET web application in C# having two textboxes and three buttons named Factorial, 
+Prime, and Factorial Series. When you click any button, the resultant value should be displayed in the second textbox.-->
+<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="WebForm3.aspx.cs" Inherits="DotNetLabs.WebForm3" %>
 
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">

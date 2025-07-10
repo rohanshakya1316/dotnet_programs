@@ -1,4 +1,7 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="WebForm2.aspx.cs" Inherits="DotNetLabs.WebForm2" %>
+﻿<!-- Create an ASP.NET web application in C# for a registration form and fill in the details. 
+    When you click the submit button, it should display the details in a message box. -->
+
+<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="WebForm2.aspx.cs" Inherits="DotNetLabs.WebForm2" %>
 
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
